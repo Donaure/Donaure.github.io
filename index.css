@@ -1,0 +1,32 @@
+@charset "utf-8";
+body 
+		{
+			background-image: url(img/bg.jpg);
+			background-size: cover;
+		}
+.nav
+		{
+			border-bottom-width: 1px;
+			border-bottom-style: solid;
+			border-bottom-color: #738CAA;
+			width: 800px;
+			margin-right: auto;
+			margin-left: auto;
+		}			
+div.transbox
+		{
+		  width: 1000px;
+		  height: 500px;
+		  margin: 70px 240px;
+		  background-color: #ffffff;
+		  border: 1px solid #ffffff;
+		  opacity:0.6;
+		}
+h1 {text-align: center;}
+		h2.ex1 {margin-left:5cm;}
+		h3.ex1 {margin-left:5cm;}
+		p{text-align: right;}
+		p.ex1{margin-right: 2cm;}
+		p{color:mediumpurple}
+img.ex1{margin-left:5cm;}
+h3.ex1 {margin-left:5cm;}
